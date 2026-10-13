@@ -62,10 +62,6 @@ The knowledge base includes information about:
 2. Add to the knowledge base by creating new markdown files in the `kb_docs/` directory
 3. Report issues and suggest improvements
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Acknowledgments
 
 - Built for the BioScout Islamabad hackathon

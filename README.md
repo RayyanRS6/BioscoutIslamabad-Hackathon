@@ -10,9 +10,9 @@ BioScout Islamabad is an AI-powered web platform for community-driven biodiversi
   - View observations on an interactive map
   - Filter and search through submitted observations
 
-- **RAG-Enhanced Biodiversity Q&A System**
+- **Biodiversity Q&A over a local knowledge base**
   - Ask questions about local biodiversity
-  - Get AI-powered responses based on knowledge base and community observations
+  - Get answers drawn from the knowledge base and community observations
   - View relevant context and sources
 
 ## Setup Instructions

@@ -1,0 +1,3 @@
+[server]
+# Largest photo (in MB) that can be uploaded with an observation
+maxUploadSize = 20
